@@ -13,7 +13,7 @@
     "@branu-jp/v-drag": "^0.0.10",
     "@huoyu/vue-digitroll": "^1.0.4",
     "animate.css": "^3.7.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-component": "^1.1.1",
     "dayjs": "^1.7.5",
     "draggable-vue-directive": "^2.0.1",
